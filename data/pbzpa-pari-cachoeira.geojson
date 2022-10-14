@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pbzpa-pari-cachoeira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "identificador": "6° PEF \/ 5° BIS - Pari-cachoeira - AM", "situacao": "Disseminação", "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -69.789699163903919, 0.263427860004561 ], [ -69.789464926820742, 0.263293522678676 ], [ -69.789731805745376, 0.262821896302058 ], [ -69.799286779617503, 0.268301757204185 ], [ -69.799521016502425, 0.268436093734045 ], [ -69.799254139101834, 0.268907719559585 ], [ -69.789699163903919, 0.263427860004561 ] ] ] ] } }
+]
+}

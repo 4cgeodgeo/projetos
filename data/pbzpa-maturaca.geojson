@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pbzpa-maturaca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "1", "identificador": "5° PEF \/ 5° BIS - Maturacá - AM", "situacao": "Disseminação" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -66.15328158774426, 0.639682530495132 ], [ -66.120022354264748, 0.653752740759618 ], [ -66.09668717730375, 0.663624141500515 ], [ -66.077075105717952, 0.616643535501571 ], [ -66.110332498382448, 0.602573041662847 ], [ -66.133667133529315, 0.592700196852873 ], [ -66.15328158774426, 0.639682530495132 ] ] ] ] } }
+]
+}

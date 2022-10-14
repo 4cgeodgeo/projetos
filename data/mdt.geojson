@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mdt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "1", "situacao": "Previsto" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -59.911955415625172, -2.598306754635617 ], [ -59.307752986913805, -2.632419149560626 ], [ -59.30332769594348, -3.138963758513458 ], [ -59.91852086443938, -3.138345709200163 ], [ -59.911955415625172, -2.598306754635617 ] ] ] ] } }
+]
+}

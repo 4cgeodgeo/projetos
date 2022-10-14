@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pbzpa-ipiranga",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "situacao": "Disseminação", "identificador": "2° PEF \/ 8° BIS - Ipiranga - AM" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -69.69460290104486, -2.93274512016665 ], [ -69.692907045489278, -2.932874044858009 ], [ -69.694037615859628, -2.948414428808781 ], [ -69.695743388699142, -2.948216083129767 ], [ -69.69460290104486, -2.93274512016665 ] ] ] ] } }
+]
+}

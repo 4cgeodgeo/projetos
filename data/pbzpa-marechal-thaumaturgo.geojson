@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pbzpa-marechal-thaumaturgo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "identificador": "DEF \/ 61 BIS - Marechal Thaumaturgo - AC", "situacao": "Disseminação" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -72.781750916302244, -8.957845530926702 ], [ -72.7834434660965, -8.958771144095438 ], [ -72.785929398606811, -8.955174475782645 ], [ -72.782253392022412, -8.952794327634471 ], [ -72.774557579676653, -8.964007470021416 ], [ -72.776779051281622, -8.965514897181924 ], [ -72.781750916302244, -8.957845530926702 ] ] ] ] } }
+]
+}
